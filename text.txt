@@ -1,0 +1,6 @@
+ng add @ngrx/store
+ng add @ngrx/effectsy
+npm install @ngrx/schematics --save-dev
+
+Genera store
+1.- ng generate @ngrx/schematics:store
